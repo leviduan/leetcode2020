@@ -1,2 +1,3 @@
 # leetcode2020
-If not now, when? If not me, who?
+
+Practise every day, keep going.
